@@ -1,4 +1,4 @@
-# website
+# web-wallet
 <h3 align="center">official IdaMurni Web-wallet</h3>
 
 <p align="center">
